@@ -11,8 +11,8 @@ To begin the programming portion of this assignment, follow these steps:
    - Execute `git clone <SSH_connection_string>`.
 
 2. **Navigate to the Repository**:
-   - Execute `ls` to confirm the presence of a new directory named `engr103-linear-equations-XXX`, where `XXX` is your GitHub username.
-   - Enter that directory using `cd engr103-linear-equations-XXX`.
+   - Execute `ls` to confirm the presence of a new directory named `linear-equations-XXX`, where `XXX` is your GitHub username.
+   - Enter that directory using `cd linear-equations-XXX`.
    - Execute `ls` again to see this file (`README.md`) along with the starter code.
    - Use `vim` to edit and complete the starter code according to the assignment requirements.
 
